@@ -2,14 +2,6 @@
 
 ## Quick Start
 
-### Step 1) Fork Jekyll Now to your User Repository
-
-Fork this repo, then rename the repository to yourgithubusername.github.io.
-
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
-
-![Step 1](/images/step1.gif "Step 1")
-
 ### Step 2) Customize and view your site
 
 Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
@@ -56,21 +48,6 @@ I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub
 ✘ No configuring plugins  
 ✘ No need to spend time on theming  
 ✘ More time to code other things ... wait ✓!  
-
-## Questions?
-
-[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
-
-## Other forkable themes
-
-You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
-
-- [Hyde](https://github.com/poole/hyde) by MDO
-- [Lanyon](https://github.com/poole/lanyon) by MDO
-- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
-- [Left](https://github.com/holman/left) by Zach Holman
-- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
-- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
 
 
 ## Contributing

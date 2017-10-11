@@ -8,10 +8,10 @@ _FLAG FORMAT: KLCTF{flag}_
 
 *download this file: https://s3.eu-central-1.amazonaws.com/klctf/fs.zip*
 
-We start by analyzing part of the file system, we find a cron job that execute the file /bin/back at startup, this is a [.pyc](../writeups/kaspersky/backdoor/back.pyc) file that we can translate to regular python with [uncompyle](https://github.com/rocky/python-uncompyle6)
+We start by analyzing part of the file system, we find a cron job that execute the file /bin/back at startup, this is a [.pyc]({{ site.url }}/writeups/kaspersky/backdoor/back.pyc) file that we can translate to regular python with [uncompyle](https://github.com/rocky/python-uncompyle6)
 
 Result:
-![alt text](../writeups/kaspersky/backdoor/uncomp.png "uncompiled")
+![alt text]({{ site.url }}/writeups/kaspersky/backdoor/uncomp.png "uncompiled")
 
 Here we can see an interesting function
 ```python

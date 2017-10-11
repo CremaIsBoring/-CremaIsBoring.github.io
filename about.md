@@ -13,4 +13,4 @@ Capture The Flag (CTF) is a computer security wargame, where each participating 
 
 ### Contact us
 
-[cremaisboring.github.io](mailto:cremaisboring.github.io)
+[CremaIsBoring@protonmail](mailto:CremaIsBoring@protonmail)

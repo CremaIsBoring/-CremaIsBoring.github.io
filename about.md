@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 ### Some information about us!
-
-CremaIsBoring is a CTF team from CremaIsBoring is a CTF team from the University of Milano (Crema department)
+CremaIsBoring is a CTF team from the University of Milano (Crema department)
 
 ### CTF
 Capture The Flag (CTF) is a computer security wargame, where each participating individual or team competes to find the flag (key) by solving problems or hacking the prepared boxes. Usually, it involves many security fields, such as web hacking, binary reverse engineering, exploitation, forensics, cryptography, etc.
@@ -14,4 +13,4 @@ Capture The Flag (CTF) is a computer security wargame, where each participating 
 
 ### Contact us
 
-[email@domain.com](mailto:cremaisboring.github.io)
+[cremaisboring.github.io](mailto:cremaisboring.github.io)
